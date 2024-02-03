@@ -1,0 +1,42 @@
+.landing-container {
+  text-align: center;
+  padding: 20px;
+}
+
+.header {
+  margin-bottom: 20px;
+}
+
+.header h1 {
+  font-size: 2em;
+  color: #333;
+}
+
+.cta-section {
+  margin-bottom: 40px;
+}
+
+button {
+  background-color: #3498db;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1em;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #2980b9;
+}
+
+.illustration-section img {
+  max-width: 100%;
+  height: auto;
+}
+
+.footer {
+  margin-top: 40px;
+  font-size: 0.8em;
+  color: #888;
+}
